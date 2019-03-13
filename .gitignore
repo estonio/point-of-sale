@@ -1,0 +1,6 @@
+# IntelliJ IDEA personal files
+.idea/workspace.xml
+
+# Build output directory
+out/
+
